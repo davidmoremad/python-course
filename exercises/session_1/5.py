@@ -1,4 +1,5 @@
-# Comprobando si un triángulo es equilátero
+# Asigna valores a las variables x, y, z para obtener un triángulo isósceles.
+# El programa debe mostrar el mensaje "Isosceles"
 
 # Longitud de los lados
 x = int()

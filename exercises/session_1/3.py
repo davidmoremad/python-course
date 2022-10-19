@@ -1,4 +1,5 @@
-# Arregla el programa para que muestre el mensaje correctamente ("El tiempo total de viaje es 1.351.251 horas")
+# Arregla el programa para que muestre el mensaje correctamente
+# El programa debe mostrar el mensaje "El tiempo total de viaje es 3.6 horas"
 tiempo_de_vuelo = "1.35"
 tiempo_en_coche = "1.25"
 tiempo_en_aeropuerto = 1

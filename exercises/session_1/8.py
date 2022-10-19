@@ -1,4 +1,5 @@
 # Arregla el programa para mostrar únicamente los músculos de la pierna
+# El programa debe mostrar el mensaje "['cuadriceps', 'recto', 'tibial', 'vasto lateral', 'vasto medial', 'peroneo', 'sóleo']"
 
 def obtener_musculos(parte_del_cuerpo=None):
     brazo = ['biceps', 'triceps', 'deltoides', 'rotadores', 'redondo', 'flexores']
@@ -19,5 +20,5 @@ def obtener_musculos(parte_del_cuerpo=None):
         return cuerpo
 
 
-musculos = obtener_musculos()
+musculos = obtener_musculos("pierna")
 print(musculos)
